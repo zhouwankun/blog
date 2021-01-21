@@ -1,2 +1,2 @@
-# wankun.github.io
+# wankun's blog
 blog
